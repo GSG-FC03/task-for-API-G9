@@ -5,7 +5,7 @@
 
 
 ## Description:
--It is a website that includes  list of anime movies title with a breif descirption for every movie, also an image for every movie.
+- It is a website that includes  list of anime movies title with a breif descirption for every movie, also an image for every movie.
 
 
 ## Links:
